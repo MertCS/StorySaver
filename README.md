@@ -23,10 +23,10 @@ Story Saver is a pygame project where players can play a short 6 level dungeon c
 
 ### Installation
 
-Clone Repository
+1. Clone Repository
    ```bash
    git clone https://github.com/MertCS/StorySaver
 
-Open the folder 'Story Saver' and run 'main.py'
+2. Open the folder 'Story Saver' and run 'main.py'
    ```bash
    python main.py
