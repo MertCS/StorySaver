@@ -1,7 +1,5 @@
 # Story Saver
 
-![Story Saver Logo](link_to_your_logo_or_image.png)
-
 ## Overview
 
 Story Saver is a pygame project where players can play a short 6 level dungeon crawl game with a knight wielding a bow fighting various enemies.
