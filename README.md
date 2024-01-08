@@ -1,8 +1,10 @@
 # Story Saver
 
+![Story Saver Logo](link_to_your_logo_or_image.png)
+
 ## Overview
 
-Story Saver is a pygame project where players can play a short 6 level game with a knight wielding a bow fighting various enemies.
+Story Saver is a pygame project where players can play a short 6 level dungeon crawl game with a knight wielding a bow fighting various enemies.
 
 ## Credits
 
@@ -21,14 +23,10 @@ Story Saver is a pygame project where players can play a short 6 level game with
 
 ### Installation
 
-1. Clone the repository:
-
+Clone Repository
    ```bash
    git clone https://github.com/MertCS/StorySaver
 
-### Running the Game
-
-1. Run 'main.py':
-
+Open the folder 'Story Saver' and run 'main.py'
    ```bash
    python main.py
