@@ -24,4 +24,11 @@ Story Saver is a pygame project where players can play a short 6 level game with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/story-saver.git
+   git clone https://github.com/MertCS/StorySaver
+
+### Running the Game
+
+1. Run 'main.py':
+
+   ```bash
+   python main.py
