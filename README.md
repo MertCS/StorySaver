@@ -33,7 +33,7 @@ Story Saver is a pygame project where players can play a short 6 level dungeon c
 <img width="500" alt="Screenshot 2024-01-08 at 19 56 14" src="https://github.com/MertCS/StorySaver/assets/91367755/d3a0dd70-de65-4d7b-beef-491f5b3908f4">
 <img width="500" alt="Screenshot 2024-01-08 at 19 56 36" src="https://github.com/MertCS/StorySaver/assets/91367755/1ebbe73e-36c8-4521-8d5d-9ec89508613d">
 <img width="500" alt="Screenshot 2024-01-08 at 19 57 22" src="https://github.com/MertCS/StorySaver/assets/91367755/c4e6bead-6a51-418a-9b10-072d7d6ae7a3">
-<img width="795" alt="Screenshot 2024-01-08 at 19 57 59" src="https://github.com/MertCS/StorySaver/assets/91367755/18603165-5e79-4ebf-93d5-cd3ac7dfdbf6">
+<img width="500ß" alt="Screenshot 2024-01-08 at 19 57 59" src="https://github.com/MertCS/StorySaver/assets/91367755/18603165-5e79-4ebf-93d5-cd3ac7dfdbf6">
 <img width="500" alt="Screenshot 2024-01-08 at 19 58 13" src="https://github.com/MertCS/StorySaver/assets/91367755/c0c8e4bb-321c-4ec6-87d9-2e9c331fca4a">
 
 
