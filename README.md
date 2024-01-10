@@ -29,6 +29,20 @@ Story Saver is a pygame project where players can play a short 6 level dungeon c
    ```bash
    python main.py
 
+### Instructions
+
+## Movement
+
+- **W:** Move Up
+- **A:** Move Left
+- **S:** Move Right
+- **D:** Move Down
+
+## Aiming and Firing
+
+- **Aim:** The bow will be aimed in the direction of your cursor
+- **Shoot:** The left mouse button will fire arrows
+
 ### Screenshots
 <img width="500" alt="Screenshot 2024-01-08 at 19 56 14" src="https://github.com/MertCS/StorySaver/assets/91367755/d3a0dd70-de65-4d7b-beef-491f5b3908f4">
 <img width="500" alt="Screenshot 2024-01-08 at 19 56 36" src="https://github.com/MertCS/StorySaver/assets/91367755/1ebbe73e-36c8-4521-8d5d-9ec89508613d">
