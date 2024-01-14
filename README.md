@@ -7,6 +7,7 @@ Story Saver is a pygame project where players can play a short 6 level dungeon c
 ## Credits
 
 - **Tiles and Sprites:** Credits to [0x72](https://0x72.itch.io/dungeontileset-ii) for the incredible dungeon tileset and sprites used in the game.
+- **Tutorial:** Credits to [Coding with Russ](https://www.udemy.com/course/pygame-dungeon-crawler/) for the amazing tutorial that I followed when developing this game.
 
 ## Features
 
