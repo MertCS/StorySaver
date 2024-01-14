@@ -29,6 +29,8 @@ Story Saver is a pygame project where players can play a short 6 level dungeon c
    ```bash
    python main.py
 
+3. You can also play the game online with the link provided in the repository
+
 ### Instructions
 
 ## Movement
