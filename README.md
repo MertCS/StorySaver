@@ -30,7 +30,7 @@ Story Saver is a pygame project where players can play a short 6 level dungeon c
    ```bash
    python main.py
 
-3. You can also play the game online with the [link](https://mertcs.itch.io/story-saver) provided in the repository
+3. You can also play the game online with the [itch.io link](https://mertcs.itch.io/story-saver) provided in the repository
 
 ### Instructions
 
